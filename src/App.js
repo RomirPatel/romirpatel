@@ -7,10 +7,12 @@ function App() {
         <p>
           Romir Patel
         </p>
-        
       </header>
+      
     </div>
+    
   );
+  
 }
 
 export default App;
