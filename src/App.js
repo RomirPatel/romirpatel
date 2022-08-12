@@ -1,7 +1,18 @@
 import './App.css';
+import React from 'react';
 
-import home from './home/homePage.js'
+ import Home from './home/homePage.js'
+
+function App() {
+    return ( 
+       
+   <Home/>
+    
+    );
+   
+
+}
 
 
 
-export default home;
+export default App;
